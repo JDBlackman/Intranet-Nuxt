@@ -1,6 +1,6 @@
 # Intranet-Nuxt
 
-> Frontend for Intranet Laravel
+> Frontend for Intranet Laravel, This was my 3rd year project for University.
 
 ## Build Setup
 
